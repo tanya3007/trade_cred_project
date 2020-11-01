@@ -1,5 +1,5 @@
 # Trade Cred Project
-The link to the deployed web application ( Frontend + Backend ) is ***https://trade-cred-project.herokuapp.com/***
+The link to the deployed web application ( **Frontend + Backend** ) is ***https://trade-cred-project.herokuapp.com/***
 
 Use the excel sheet provided in the repository to test the website, as the code works on Case-Sensitive column names.
 The code displays -
