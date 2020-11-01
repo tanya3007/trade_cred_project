@@ -11,5 +11,5 @@ The code displays -
 
 Validation occurs on the basis :-
   1) Invoice dates (Pstng Date) should not be future dated.
-  2) A vendor must be assigne to a invoice.
-  3) Duplicate invoices (Invoice Numbers) are invalid.
+  2) A vendor must be assigned to an invoice. I have considered the Vendor Code column for this.
+  3) Duplicate Invoices (Invoice Numbers) are Invalid.
