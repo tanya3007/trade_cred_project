@@ -4,7 +4,7 @@ from collections import defaultdict
 from datetime import date, datetime
 
 # declaring app. static folder tells where the index html will be
-app = Flask(__name__, static_folder='build', static_url_path='/')
+app = Flask(__name__, static_folder='./build', static_url_path='/')
 
 # Cross-Origin Resource Policy
 CORS(app)
