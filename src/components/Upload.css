@@ -1,0 +1,18 @@
+.upload-main{
+    text-align: center;
+    padding-top: 5%;
+}
+
+h1{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.upload-input, .upload-icon{
+    display: none;
+}
+
+.upload-icon-label{
+    margin-left: 1%;
+    margin-right: 6%;
+}
